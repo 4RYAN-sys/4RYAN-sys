@@ -81,50 +81,6 @@ assessment, and certification workflows for internship programs.
 </tr>
 </table>
 
-<br>
-
-## `> fetch ./github-stats.log`
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=4RYAN-sys&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=39FF14&icon_color=00F0FF&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=4RYAN-sys&theme=github-dark-blue&hide_border=true&background=0d0d0d&ring=39FF14&fire=00F0FF&currStreakLabel=39FF14" width="49%"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=4RYAN-sys&theme=react-dark&hide_border=true&bg_color=0d0d0d&color=39FF14&line=00F0FF&point=ffffff" width="98%"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4RYAN-sys&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=39FF14&text_color=c9d1d9" width="45%"/>
-</div>
-
-<br>
-
-## `> now-playing.stream()`
-
-<div align="center">
-
-<!-- Ganti USERNAME_SPOTIFY dengan hasil setup di spotify-github-profile (Vercel) -->
-<img src="https://novatorem-liart.vercel.app/api/spotify" width="450" />
-
-*setup: [spotify-github-profile](https://github.com/kittinan/spotify-github-profile) → ganti link di atas dengan link deployment kamu sendiri*
-
-</div>
-
-<br>
-
-## `> anime-list --recent`
-
-<div align="center">
-
-<!-- Ganti ANILIST_USERNAME dengan username AniList kamu -->
-<img src="https://anilist-badges.vercel.app/api/user?username=ANILIST_USERNAME&type=watching" />
-
-*setup: [anilist-badges](https://github.com/DIYgod/anilist-badges) atau kartu sejenis, ganti `ANILIST_USERNAME`*
-
-</div>
-
-<br>
 
 ## `> connect --protocol=social`
 
