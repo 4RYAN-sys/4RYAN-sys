@@ -1,0 +1,248 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Matrix style digital rain background watermark">
+  <defs>
+    <style>
+      text { font-family: ui-monospace, 'JetBrains Mono', 'Cascadia Mono', monospace; }
+    </style>
+  </defs>
+
+  <g opacity="0.16">
+    <!-- column x=20 -->
+    <g font-size="16">
+      <text x="20" y="0" fill="#22d3ee">1</text>
+      <text x="20" y="16" fill="#22d3ee">0</text>
+      <text x="20" y="32" fill="#22d3ee">0</text>
+      <text x="20" y="48" fill="#facc15">1</text>
+      <text x="20" y="64" fill="#22d3ee">0</text>
+      <text x="20" y="80" fill="#22d3ee">0</text>
+      <text x="20" y="96" fill="#22d3ee">1</text>
+      <text x="20" y="112" fill="#22d3ee">0</text>
+      <animate attributeName="opacity" values="0;0.8;0" dur="6s" repeatCount="indefinite"/>
+    </g>
+
+    <!-- column x=80 -->
+    <g font-size="16">
+      <text x="80" y="0" fill="#22d3ee">0</text>
+      <text x="80" y="16" fill="#facc15">1</text>
+      <text x="80" y="32" fill="#22d3ee">0</text>
+      <text x="80" y="48" fill="#22d3ee">1</text>
+      <text x="80" y="64" fill="#22d3ee">0</text>
+      <text x="80" y="80" fill="#22d3ee">1</text>
+      <text x="80" y="96" fill="#22d3ee">1</text>
+      <text x="80" y="112" fill="#22d3ee">0</text>
+      <text x="80" y="128" fill="#22d3ee">1</text>
+      <animate attributeName="opacity" values="0;0.9;0" dur="8s" repeatCount="indefinite"/>
+    </g>
+
+    <!-- column x=140 -->
+    <g font-size="16">
+      <text x="140" y="0" fill="#22d3ee">1</text>
+      <text x="140" y="16" fill="#22d3ee">0</text>
+      <text x="140" y="32" fill="#facc15">1</text>
+      <text x="140" y="48" fill="#22d3ee">0</text>
+      <text x="140" y="64" fill="#22d3ee">1</text>
+      <text x="140" y="80" fill="#22d3ee">0</text>
+      <text x="140" y="96" fill="#22d3ee">0</text>
+      <text x="140" y="112" fill="#22d3ee">1</text>
+      <animate attributeName="opacity" values="0;1;0" dur="5s" repeatCount="indefinite"/>
+    </g>
+
+    <!-- column x=200 -->
+    <g font-size="24">
+      <text x="200" y="0" fill="#22d3ee">0</text>
+      <text x="200" y="24" fill="#22d3ee">1</text>
+      <text x="200" y="48" fill="#22d3ee">0</text>
+      <text x="200" y="72" fill="#facc15">1</text>
+      <text x="200" y="96" fill="#22d3ee">1</text>
+      <text x="200" y="120" fill="#22d3ee">0</text>
+      <text x="200" y="144" fill="#22d3ee">1</text>
+      <text x="200" y="168" fill="#22d3ee">0</text>
+      <text x="200" y="192" fill="#22d3ee">1</text>
+      <text x="200" y="216" fill="#22d3ee">0</text>
+      <text x="200" y="240" fill="#22d3ee">0</text>
+      <text x="200" y="264" fill="#22d3ee">1</text>
+      <text x="200" y="288" fill="#22d3ee">1</text>
+      <text x="200" y="312" fill="#22d3ee">0</text>
+      <text x="200" y="336" fill="#facc15">1</text>
+      <text x="200" y="360" fill="#22d3ee">0</text>
+      <text x="200" y="384" fill="#22d3ee">1</text>
+      <text x="200" y="408" fill="#22d3ee">0</text>
+      <text x="200" y="432" fill="#22d3ee">1</text>
+      <text x="200" y="456" fill="#22d3ee">0</text>
+      <text x="200" y="480" fill="#22d3ee">0</text>
+      <text x="200" y="504" fill="#22d3ee">1</text>
+      <text x="200" y="528" fill="#22d3ee">1</text>
+      <text x="200" y="552" fill="#22d3ee">0</text>
+      <text x="200" y="576" fill="#22d3ee">0</text>
+      <text x="200" y="600" fill="#22d3ee">1</text>
+      <text x="200" y="624" fill="#facc15">0</text>
+      <text x="200" y="648" fill="#22d3ee">1</text>
+      <animate attributeName="opacity" values="0;1;0" dur="3.5s" repeatCount="indefinite" begin="0.5s"/>
+    </g>
+
+    <!-- column x=260 -->
+    <g font-size="24">
+      <text x="260" y="0" fill="#22d3ee">0</text>
+      <text x="260" y="24" fill="#22d3ee">1</text>
+      <text x="260" y="48" fill="#facc15">0</text>
+      <text x="260" y="72" fill="#22d3ee">1</text>
+      <text x="260" y="96" fill="#22d3ee">0</text>
+      <text x="260" y="120" fill="#22d3ee">1</text>
+      <text x="260" y="144" fill="#22d3ee">1</text>
+      <text x="260" y="168" fill="#22d3ee">0</text>
+      <text x="260" y="192" fill="#22d3ee">0</text>
+      <text x="260" y="216" fill="#22d3ee">1</text>
+      <text x="260" y="240" fill="#22d3ee">1</text>
+      <text x="260" y="264" fill="#22d3ee">0</text>
+      <text x="260" y="288" fill="#22d3ee">1</text>
+      <text x="260" y="312" fill="#22d3ee">0</text>
+      <text x="260" y="336" fill="#22d3ee">0</text>
+      <text x="260" y="360" fill="#facc15">1</text>
+      <text x="260" y="384" fill="#22d3ee">0</text>
+      <text x="260" y="408" fill="#22d3ee">1</text>
+      <text x="260" y="432" fill="#22d3ee">0</text>
+      <text x="260" y="456" fill="#22d3ee">1</text>
+      <text x="260" y="480" fill="#22d3ee">1</text>
+      <text x="260" y="504" fill="#22d3ee">0</text>
+      <text x="260" y="528" fill="#22d3ee">1</text>
+      <text x="260" y="552" fill="#22d3ee">0</text>
+      <text x="260" y="576" fill="#22d3ee">0</text>
+      <text x="260" y="600" fill="#22d3ee">1</text>
+      <text x="260" y="624" fill="#22d3ee">0</text>
+      <text x="260" y="648" fill="#22d3ee">1</text>
+      <animate attributeName="opacity" values="0;1;0" dur="4.5s" repeatCount="indefinite" begin="1.2s"/>
+    </g>
+
+    <!-- column x=560 -->
+    <g font-size="20">
+      <text x="560" y="0" fill="#22d3ee">1</text>
+      <text x="560" y="20" fill="#22d3ee">0</text>
+      <text x="560" y="40" fill="#facc15">0</text>
+      <text x="560" y="60" fill="#22d3ee">1</text>
+      <text x="560" y="80" fill="#22d3ee">1</text>
+      <text x="560" y="100" fill="#22d3ee">0</text>
+      <text x="560" y="120" fill="#22d3ee">1</text>
+      <text x="560" y="140" fill="#22d3ee">0</text>
+      <text x="560" y="160" fill="#22d3ee">0</text>
+      <text x="560" y="180" fill="#22d3ee">1</text>
+      <text x="560" y="200" fill="#22d3ee">1</text>
+      <text x="560" y="220" fill="#22d3ee">0</text>
+      <text x="560" y="240" fill="#22d3ee">1</text>
+      <text x="560" y="260" fill="#facc15">0</text>
+      <text x="560" y="280" fill="#22d3ee">0</text>
+      <text x="560" y="300" fill="#22d3ee">1</text>
+      <text x="560" y="320" fill="#22d3ee">0</text>
+      <text x="560" y="340" fill="#22d3ee">1</text>
+      <text x="560" y="360" fill="#22d3ee">1</text>
+      <text x="560" y="380" fill="#22d3ee">0</text>
+      <text x="560" y="400" fill="#22d3ee">0</text>
+      <text x="560" y="420" fill="#22d3ee">1</text>
+      <text x="560" y="440" fill="#22d3ee">1</text>
+      <text x="560" y="460" fill="#22d3ee">0</text>
+      <text x="560" y="480" fill="#22d3ee">0</text>
+      <text x="560" y="500" fill="#22d3ee">1</text>
+      <text x="560" y="520" fill="#facc15">0</text>
+      <text x="560" y="540" fill="#22d3ee">1</text>
+      <text x="560" y="560" fill="#22d3ee">0</text>
+      <text x="560" y="580" fill="#22d3ee">1</text>
+      <text x="560" y="600" fill="#22d3ee">1</text>
+      <text x="560" y="620" fill="#22d3ee">0</text>
+      <text x="560" y="640" fill="#22d3ee">0</text>
+      <text x="560" y="660" fill="#22d3ee">1</text>
+      <animate attributeName="opacity" values="0;0.9;0" dur="7s" repeatCount="indefinite" begin="2s"/>
+    </g>
+
+    <!-- column x=880 -->
+    <g font-size="18">
+      <text x="880" y="0" fill="#22d3ee">0</text>
+      <text x="880" y="18" fill="#22d3ee">1</text>
+      <text x="880" y="36" fill="#22d3ee">1</text>
+      <text x="880" y="54" fill="#facc15">0</text>
+      <text x="880" y="72" fill="#22d3ee">0</text>
+      <text x="880" y="90" fill="#22d3ee">1</text>
+      <text x="880" y="108" fill="#22d3ee">0</text>
+      <text x="880" y="126" fill="#22d3ee">0</text>
+      <text x="880" y="144" fill="#22d3ee">1</text>
+      <text x="880" y="162" fill="#22d3ee">1</text>
+      <text x="880" y="180" fill="#22d3ee">0</text>
+      <text x="880" y="198" fill="#22d3ee">0</text>
+      <text x="880" y="216" fill="#22d3ee">1</text>
+      <text x="880" y="234" fill="#facc15">1</text>
+      <text x="880" y="252" fill="#22d3ee">0</text>
+      <text x="880" y="270" fill="#22d3ee">0</text>
+      <text x="880" y="288" fill="#22d3ee">1</text>
+      <text x="880" y="306" fill="#22d3ee">0</text>
+      <text x="880" y="324" fill="#22d3ee">1</text>
+      <text x="880" y="342" fill="#22d3ee">0</text>
+      <text x="880" y="360" fill="#22d3ee">0</text>
+      <text x="880" y="378" fill="#22d3ee">1</text>
+      <text x="880" y="396" fill="#22d3ee">0</text>
+      <text x="880" y="414" fill="#22d3ee">1</text>
+      <text x="880" y="432" fill="#22d3ee">1</text>
+      <text x="880" y="450" fill="#22d3ee">0</text>
+      <text x="880" y="468" fill="#22d3ee">0</text>
+      <text x="880" y="486" fill="#22d3ee">1</text>
+      <text x="880" y="504" fill="#facc15">1</text>
+      <text x="880" y="522" fill="#22d3ee">0</text>
+      <text x="880" y="540" fill="#22d3ee">0</text>
+      <text x="880" y="558" fill="#22d3ee">1</text>
+      <text x="880" y="576" fill="#22d3ee">0</text>
+      <text x="880" y="594" fill="#22d3ee">1</text>
+      <text x="880" y="612" fill="#22d3ee">1</text>
+      <text x="880" y="630" fill="#22d3ee">0</text>
+      <text x="880" y="648" fill="#22d3ee">0</text>
+      <text x="880" y="666" fill="#22d3ee">1</text>
+      <animate attributeName="opacity" values="0;0.85;0" dur="5.5s" repeatCount="indefinite" begin="0.8s"/>
+    </g>
+
+    <!-- column x=1120 -->
+    <g font-size="16">
+      <text x="1120" y="0" fill="#22d3ee">1</text>
+      <text x="1120" y="16" fill="#22d3ee">0</text>
+      <text x="1120" y="32" fill="#22d3ee">0</text>
+      <text x="1120" y="48" fill="#facc15">1</text>
+      <text x="1120" y="64" fill="#22d3ee">1</text>
+      <text x="1120" y="80" fill="#22d3ee">0</text>
+      <text x="1120" y="96" fill="#22d3ee">0</text>
+      <text x="1120" y="112" fill="#22d3ee">1</text>
+      <text x="1120" y="128" fill="#22d3ee">0</text>
+      <text x="1120" y="144" fill="#22d3ee">1</text>
+      <text x="1120" y="160" fill="#22d3ee">1</text>
+      <text x="1120" y="176" fill="#22d3ee">0</text>
+      <text x="1120" y="192" fill="#22d3ee">0</text>
+      <text x="1120" y="208" fill="#22d3ee">1</text>
+      <text x="1120" y="224" fill="#facc15">1</text>
+      <text x="1120" y="240" fill="#22d3ee">0</text>
+      <text x="1120" y="256" fill="#22d3ee">1</text>
+      <text x="1120" y="272" fill="#22d3ee">0</text>
+      <text x="1120" y="288" fill="#22d3ee">0</text>
+      <text x="1120" y="304" fill="#22d3ee">1</text>
+      <text x="1120" y="320" fill="#22d3ee">1</text>
+      <text x="1120" y="336" fill="#22d3ee">0</text>
+      <text x="1120" y="352" fill="#22d3ee">1</text>
+      <text x="1120" y="368" fill="#22d3ee">0</text>
+      <text x="1120" y="384" fill="#22d3ee">0</text>
+      <text x="1120" y="400" fill="#22d3ee">1</text>
+      <text x="1120" y="416" fill="#facc15">0</text>
+      <text x="1120" y="432" fill="#22d3ee">1</text>
+      <text x="1120" y="448" fill="#22d3ee">1</text>
+      <text x="1120" y="464" fill="#22d3ee">0</text>
+      <text x="1120" y="480" fill="#22d3ee">0</text>
+      <text x="1120" y="496" fill="#22d3ee">1</text>
+      <text x="1120" y="512" fill="#22d3ee">1</text>
+      <text x="1120" y="528" fill="#22d3ee">0</text>
+      <text x="1120" y="544" fill="#22d3ee">1</text>
+      <text x="1120" y="560" fill="#22d3ee">0</text>
+      <text x="1120" y="576" fill="#22d3ee">1</text>
+      <text x="1120" y="592" fill="#22d3ee">1</text>
+      <text x="1120" y="608" fill="#22d3ee">0</text>
+      <text x="1120" y="624" fill="#22d3ee">0</text>
+      <text x="1120" y="640" fill="#22d3ee">1</text>
+      <text x="1120" y="656" fill="#22d3ee">0</text>
+      <text x="1120" y="672" fill="#22d3ee">0</text>
+      <text x="1120" y="688" fill="#22d3ee">1</text>
+      <text x="1120" y="704" fill="#22d3ee">0</text>
+      <text x="1120" y="720" fill="#22d3ee">1</text>
+      <animate attributeName="opacity" values="0;1;0" dur="4s" repeatCount="indefinite" begin="1.6s"/>
+    </g>
+  </g>
+</svg>
