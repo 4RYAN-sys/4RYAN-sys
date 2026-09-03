@@ -159,8 +159,8 @@
     <text x="260" y="150" font-size="13" fill="#8b949e" class="pulse">_</text>
 
     <!-- Detail lines -->
-    <text x="60" y="180" font-size="12" fill="#64748b">▸ focus  <tspan fill="#c9d1d9">Fullstack Web • Embedded IoT</tspan></text>
-    <text x="60" y="200" font-size="12" fill="#64748b">▸ stack  <tspan fill="#c9d1d9">Next.js • TypeScript • ESP32</tspan></text>
+    <text x="60" y="180" font-size="12" fill="#64748b">▸ focus  <tspan fill="#c9d1d9">Fullstack Web Dev • Solo Dev </tspan></text>
+    <text x="60" y="200" font-size="12" fill="#64748b">▸ stack  <tspan fill="#c9d1d9">Next.js • TypeScript • Laravel</tspan></text>
     <text x="60" y="220" font-size="12" fill="#64748b">▸ drive  <tspan fill="#facc15">ship small systems that actually work</tspan></text>
   </g>
 
